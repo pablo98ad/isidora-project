@@ -18,7 +18,7 @@ export default function Home() {
         <link rel='icon' href='/favicon.ico' />
         <meta name='keywords' content='Isidora Anda Ya, isidora, broma isidora, broma anda ya, broma telefonica, telefonica, humor, broma online' />
         <meta name='robots' content='index, follow' />
-        <link rel='canonical' href='https://www.bromaisidora.com' />
+        <link rel='canonical' href='https://bromaisidora.vercel.app/' />
       </Head>
 
       <div className='relative'>

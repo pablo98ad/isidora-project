@@ -1,3 +1,3 @@
-export const APIS = {
-  GENERATE: '/api/generate'
+export const PATHS = {
+  AUDIOS_PATH: 'audios/'
 }
